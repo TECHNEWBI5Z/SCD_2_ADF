@@ -1,0 +1,7 @@
+selected resource name:		SCD_PL
+selected resource type:		pipeline
+factory name:			faizan-adf
+factory location:		eastus
+subscription id:		181b4747-54e9-4385-9ff1-b3c0dc0c02de
+data flow session id:		1f29759c-898d-4a34-82c0-d83ae83a8a55
+time of download (UTC):		Mon, 12 Aug 2024 17:41:26 GMT

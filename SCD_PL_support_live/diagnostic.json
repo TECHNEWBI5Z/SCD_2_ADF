@@ -1,0 +1,24 @@
+{
+    "now": "2024-08-12T17:41:26.895Z",
+    "perfNow": 32559700.7,
+    "diagnosticCorrelation": "187ec0d4-15d0-44c1-a6d1-83d569159d5c",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.080224.3",
+        "environmentType": 3,
+        "resourceName": "faizan-adf",
+        "resourceRegion": "eastus",
+        "resourceGroup": "faizan_project_rg",
+        "subscriptionId": "181b4747-54e9-4385-9ff1-b3c0dc0c02de",
+        "sessionId": "rPhcEE9IS1WXhS2AnAtYuO",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "0504cdb1-9f8e-4f87-9908-91e3d725b3f5"
+    },
+    "additionalInfo": {
+        "selectedResource": "SCD_PL",
+        "selectedResourceType": "pipeline",
+        "dataFlowSessionId": "1f29759c-898d-4a34-82c0-d83ae83a8a55"
+    }
+}

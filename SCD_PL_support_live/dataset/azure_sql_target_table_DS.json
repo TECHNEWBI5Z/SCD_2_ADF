@@ -1,0 +1,44 @@
+{
+    "name": "azure_sql_target_table_DS",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AzureSqlDatabase1",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "AzureSqlTable",
+        "schema": [
+            {
+                "name": "surrkey",
+                "type": "int",
+                "precision": 10
+            },
+            {
+                "name": "id",
+                "type": "int",
+                "precision": 10
+            },
+            {
+                "name": "name",
+                "type": "varchar"
+            },
+            {
+                "name": "gender",
+                "type": "varchar"
+            },
+            {
+                "name": "country",
+                "type": "varchar"
+            },
+            {
+                "name": "IsActive",
+                "type": "int",
+                "precision": 10
+            }
+        ],
+        "typeProperties": {
+            "schema": "dbo",
+            "table": "person_info"
+        }
+    }
+}
